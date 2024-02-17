@@ -19,7 +19,7 @@ The `ProjectTasks` Management System is a simple yet powerful tool designed to f
 ### Installation
 
 Clone the repository to your local machine:
- - git clone https://github.com/yourusername/ProjectTasks.git
+ - git clone https://github.com/giannisthermo/project-tasks.git
 
 Navigate to ProjectTasks folder:
 - cd ProjectTasks

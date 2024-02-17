@@ -1,6 +1,6 @@
-# ProjectTasks Management System
+# Project Tasks Management System
 
-The `ProjectTasks` Management System is a simple yet powerful tool designed to facilitate the tracking and management of various tasks within a project. Developed with Python for scripting and SQL for database management, this tool offers an intuitive command-line interface for adding, updating, fetching, and managing tasks effectively.
+The Project Tasks Management System is a simple yet powerful tool designed to facilitate the tracking and management of various tasks within a project. Developed with Python for scripting and SQL for database management, this tool offers an intuitive command-line interface for adding, updating, fetching, and managing tasks effectively.
 
 ## Features
 
